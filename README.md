@@ -1,10 +1,11 @@
 # dotfiles
 
-sway
+
+**compositor** : sway
+**Terminal** : foot
+**shell** : fish
 
 swayidle
-
-foot
 
 wofi
 
